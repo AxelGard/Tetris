@@ -8,4 +8,4 @@ from my object oriented programming corse https://www.ida.liu.se/~TDDD78/index.s
 - [x] the basic's of object oriented programming
 - [x] OO-prg in java 
 - [x] Java
-- [ ] java swing 
+- [x] java swing 
